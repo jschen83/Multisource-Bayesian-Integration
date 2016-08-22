@@ -11,7 +11,6 @@ LINK.F       =  g77 -O2
 LINK.PLUS    =  g++ -v  
 FFLAGS       = 
 LIBS         = -lm 
-#LIBS= -lm -lgcc -lg2c
 #################################################################
 #Main-functions
 MAINSTTR    =$(WORK)/main_sttr.o
