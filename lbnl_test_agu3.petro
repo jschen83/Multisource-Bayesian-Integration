@@ -1,0 +1,14 @@
+meanY:    -1.6467
+stdY:     0.5465
+meanX1:    16.3314
+stdX1:     0.2866
+meanX2:     0.0000
+stdX2:     0.0000
+meanX3:     0.0000
+stdX3:     0.0000
+Regression: Y=a0+a1*X1+a2*X1*X1+a3*X1*X1*X1+error
+a0:    -0.0000
+a1:    -0.6850
+a2:     0.0000
+a3:     0.0000
+sq_sigma:   0.534108
